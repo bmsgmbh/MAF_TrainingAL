@@ -17,6 +17,11 @@ table 50101 "Meal"
             Caption = 'Description', Comment = 'Beschreibung';
             DataClassification = CustomerContent;
         }
+        field(3; "Vegan"; Boolean)
+        {
+            Caption = 'Vegan', Comment = 'Vegan';
+            DataClassification = CustomerContent;
+        }
     }
 
     keys
