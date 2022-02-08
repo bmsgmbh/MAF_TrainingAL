@@ -1,0 +1,36 @@
+{
+  "id": "27924f4e-dc18-4358-be9e-ba0d843c3ff9",
+  "name": "Training_Project",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+    "id": "b0c41a2d-9ebe-4773-a22f-86bd69e75949",
+    "name": "ELSTER VAT Localization for Germany",
+    "version": "19.2.32968.33504",
+    "publisher": "Microsoft" 
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
