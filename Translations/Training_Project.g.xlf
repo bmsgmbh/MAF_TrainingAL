@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Training_Project">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 909242519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meal</source>
+          <note from="Developer" annotates="general" priority="2">Gericht</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 909242519 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meal - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 909242519 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">Beschreibung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meal - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 909242519 - Field 1570800541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vegan</source>
+          <note from="Developer" annotates="general" priority="2">Vegan</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Meal - Field Vegan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2099794951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Course</source>
+          <note from="Developer" annotates="general" priority="2">Schulungskurs</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Course - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2099794951 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Course - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2099794951 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">Beschreibung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Course - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2099794951 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2">Dauer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Course - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Header</source>
+          <note from="Developer" annotates="general" priority="2">Schulungskopf</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2">Ende Datum</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2">Nr.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2">Start Datum</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Field 4152686260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Course Code</source>
+          <note from="Developer" annotates="general" priority="2">Trainingskurs Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Field Training Course Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 691882305 - Field 1966890301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Course Description</source>
+          <note from="Developer" annotates="general" priority="2">Trainingskurs Beschreibung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Header - Field Training Course Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2397727226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Line</source>
+          <note from="Developer" annotates="general" priority="2">Schulungszeile</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2397727226 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2">Zeilennr.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2397727226 - Field 667895281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training No.</source>
+          <note from="Developer" annotates="general" priority="2">Schulung Nr.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Line - Field Training No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2397727226 - Field 2294793142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Participant Code</source>
+          <note from="Developer" annotates="general" priority="2">Schulungsteilnehmer Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Line - Field Training Participant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2397727226 - Field 4217945292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Participant Name</source>
+          <note from="Developer" annotates="general" priority="2">Schulungsteilnehmer Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Line - Field Training Participant Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1441353369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Participant</source>
+          <note from="Developer" annotates="general" priority="2">Schulung Teilnehmer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Participant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1441353369 - Field 581995851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthday</source>
+          <note from="Developer" annotates="general" priority="2">Geburtstag</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Participant - Field Birthday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1441353369 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Participant - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1441353369 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">Name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Training Participant - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3407990370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meals</source>
+          <note from="Developer" annotates="general" priority="2">Gerichte</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Meals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2116756124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training</source>
+          <note from="Developer" annotates="general" priority="2">Schulung</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2116756124 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2">Datum</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2116756124 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2">Allgemein</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2026062962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Courses</source>
+          <note from="Developer" annotates="general" priority="2">Schulungskurse</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training Courses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2268902318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training List</source>
+          <note from="Developer" annotates="general" priority="2">Schulung Übersicht</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2686347152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Participants</source>
+          <note from="Developer" annotates="general" priority="2">Schulung Teilnehmer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training Participants - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3155307057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Training Subpage</source>
+          <note from="Developer" annotates="general" priority="2">Zeilen</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Training Subpage - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
